@@ -1,0 +1,33 @@
+{
+  "short_name": "WPA",
+  "name": "WPA Camera App",
+  "icons": [{
+    "src": "logo.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }, {
+      "src": "logo.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "logo.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }, {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "logo.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }, {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
